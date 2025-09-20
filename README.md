@@ -1,11 +1,11 @@
 # RISC-V-WEEK-0 tapeout program 
 
-## 🗓Week 1 – Tool Installation  
-This is a simple Overview of how I installed the required tools like Yosys GTK wave and iverilog in Ubuntu suing a Virtual Machine with the following Specifications 
+## 🗓Week 0 – Tool Installation  
+This is a simple Overview of how I installed the required tools like Yosys,GTK wave and iverilog in Ubuntu using a Virtual Machine with the following Specifications 
 
 ### 🖥System Specifications  
-- OS: Ubuntu 22.04 (or higher)
-- Virtual Machine Used
+- OS: Ubuntu 22.04
+- Virtual Machine - VMWare Workstation
 - RAM: 8 GB (minimum 6 GB recommended)  
 - Processor: Intel i5 / AMD equivalent  
 
