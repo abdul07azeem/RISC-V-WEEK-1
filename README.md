@@ -33,7 +33,7 @@ $ sudo apt install gtkwave
 gtkwave -version
 
 **Screenshot:**
-![Screenshot]()
+![Screenshot](https://github.com/abdul07azeem/RISC-V-WEEK-1/blob/abb2f8a19d3c8e18b456981f10e66841f7061d38/Screenshot%20from%202025-09-20%2023-44-53.png)
 ---
 
 ## 3. Yosys
