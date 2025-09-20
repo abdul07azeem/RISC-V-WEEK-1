@@ -1,9 +1,9 @@
 # RISC-V-WEEK-1 tapeout program 
 
-## Week 1 – Tool Installation  
+## 🗓Week 1 – Tool Installation  
 This is a simple Overview of how I installed the required tools like Yosys GTK wave and iverilog in Ubuntu suing a Virtual Machine with the following Specifications 
 
-### System Specifications  
+### 🖥System Specifications  
 - OS: Ubuntu 22.04 (or higher)
 - Virtual Machine Used
 - RAM: 8 GB (minimum 6 GB recommended)  
@@ -11,7 +11,7 @@ This is a simple Overview of how I installed the required tools like Yosys GTK w
 
 ---
 
-## Installed Tools  
+## 🧰Installed Tools  
 
 ### 1. Icarus Verilog (iverilog)  
 **Command:**  
@@ -20,7 +20,7 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 **Screenshot**:
-
+![Screenshot]()
 ---
 
 ## 2. GTKWave
@@ -33,7 +33,7 @@ $ sudo apt install gtkwave
 gtkwave -version
 
 **Screenshot:**
-
+![Screenshot]()
 ---
 
 ## 3. Yosys
@@ -56,7 +56,7 @@ $ make
 $ sudo make install
 ```
 **Screenshot:**
-
+![Screenshot]()
 ---
 
 Learnings
