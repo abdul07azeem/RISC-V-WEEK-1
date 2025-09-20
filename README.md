@@ -56,7 +56,7 @@ $ make
 $ sudo make install
 ```
 **Screenshot:**
-![Screenshot]()
+![Screenshot](https://github.com/abdul07azeem/RISC-V-WEEK-1/blob/4b4100c108899f006cd945fc8895110765913eb0/Screenshot%20from%202025-09-20%2023-21-55.png)
 ---
 
 Learnings
