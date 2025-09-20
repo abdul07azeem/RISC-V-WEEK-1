@@ -20,7 +20,7 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 **Screenshot**:
-![Screenshot]()
+![Screenshot](https://github.com/abdul07azeem/RISC-V-WEEK-1/blob/1159e40726fddaca64682e01fa31192e9106786c/Screenshot%20from%202025-09-20%2023-40-48.png)
 ---
 
 ## 2. GTKWave
