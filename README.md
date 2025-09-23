@@ -61,6 +61,8 @@ $ sudo make install
 
 Learnings
 
-Installed basic tools required for RISC-V program.
+Installed basic tools required for RISC-V Tapeout program.
 
 Learned how to check versions and take screenshots.
+
+Author @Abdul Azeem
