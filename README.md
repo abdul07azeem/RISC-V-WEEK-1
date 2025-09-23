@@ -1,4 +1,4 @@
-# RISC-V-WEEK-0 tapeout program 
+# RISC-V Tapeout Program WEEK 0
 
 ## 🗓Week 0 – Tool Installation  
 This is a simple Overview of how I installed the required tools like Yosys,GTK wave and iverilog in Ubuntu using a Virtual Machine with the following Specifications 
